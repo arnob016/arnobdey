@@ -4,6 +4,8 @@ Thanks for taking the time to view my profile.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+This is building up to be my personal portfolio. I have a goal/deadline set to finish this project before January 2024. 
+
 **Arnob Dey**
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnob016)
